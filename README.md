@@ -1,2 +1,4 @@
 # agus-resolusi-
-repositori untuk menyimpan rencana menjadi seorang programmmer kedepannya
+-kosisten untuk ngoding setiap hari
+-membuat website sebagai tugas besar
+-mempelajari bahasa program setiap hari
